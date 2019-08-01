@@ -36,6 +36,7 @@
     "volume": 2,
     "price": 16000,
     "material": "steel",
+    "ammo": [ "gasoline", "diesel" ],
     "range": -2,
     "dispersion": 300,
     "durability": 8,
